@@ -1,0 +1,14 @@
+{
+    "name": "tutorialspoint/hello-world",
+    "authors": [
+        {
+            "name": "Coen"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
