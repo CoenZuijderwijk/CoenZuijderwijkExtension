@@ -1,0 +1,14 @@
+{
+    "name": "coenzuijderwijk/uitbreidingen",
+    "authors": [
+        {
+            "name": "Coen"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "coen\\":"src/"
+        }
+    }
+}
